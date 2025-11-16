@@ -1,6 +1,6 @@
 # ELK Stack Sales Dashboard
 
-This proejct demonstrates a complete data pipeline using the ELK Stack (Elasticsearch, Logstash, Kibana). The pipeline ingests a CSV dataset, processes it, and visualizes the data in a dynamic, interactive dashboard.
+This project demonstrates a complete data pipeline using the ELK Stack (Elasticsearch, Logstash, Kibana). The pipeline ingests a CSV dataset, processes it, and visualizes the data in a dynamic, interactive dashboard.
 
 ## Solution Architecture
 
